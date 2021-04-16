@@ -1,4 +1,4 @@
-Github repo:
+Github repo:https://github.com/gkhalil98/CallRecordAnalysis
 
 Steps:
 1.) I copied over the callData.json file to my project folder and created the app.js file to hold the logic.
