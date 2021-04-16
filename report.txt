@@ -1,0 +1,7 @@
+Github repo:
+
+Steps:
+1.) I copied over the callData.json file to my project folder and created the app.js file to hold the logic.
+2.) I installed fs and mongoose using npm install so that I could read the file and I could use schema and model functions of mongoose.
+3.) I followed the logic of the trainers for the most part of the code and then I used the .insertMany function to quickly insert all the data according to my predefined model.
+4.) I uploaded the project to Github.
